@@ -1,11 +1,12 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #fafafa;
   font-family: sans-serif;
+  color: #543a3a;
 }
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: white;
+  background-color: #e1eeff;
   padding: 30px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 10px;
@@ -39,11 +40,7 @@ h2 {
   justify-content: space-between;
   margin: 20px 0;
   padding: 20px 0;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
-}
-
-.city:last-child {
-  border: none;
+  border-bottom: 1px dashed #c2cfd8;
 }
 
 .time {
@@ -60,5 +57,5 @@ h2 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.5);
+  color: #c2cfd8;
 }
