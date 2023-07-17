@@ -1,12 +1,12 @@
 body {
-  background-color: #fafafa;
+  background-color: #f9f5f6;
   font-family: sans-serif;
-  color: #543a3a;
+  color: #e97777;
 }
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: #e1eeff;
+  background-color: #f8e8ee;
   padding: 30px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 10px;
@@ -40,7 +40,7 @@ h2 {
   justify-content: space-between;
   margin: 20px 0;
   padding: 20px 0;
-  border-bottom: 1px dashed #c2cfd8;
+  border-bottom: 1px dashed #fdcedf;
 }
 
 .time {
@@ -57,5 +57,6 @@ h2 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: #c2cfd8;
+  color: #fdcedf;
+  margin-bottom: 30px;
 }
